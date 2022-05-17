@@ -1,4 +1,4 @@
-cd ../src/Components/Child2
+cd ../src/Components/child2
 
 git submodule init 
 
