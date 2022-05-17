@@ -1,4 +1,4 @@
-cd ../src/Components/Shashwath_Demo_Child_1
+cd ../src/Components/Child2
 
 git submodule init 
 

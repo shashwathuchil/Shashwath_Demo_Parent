@@ -1,6 +1,3 @@
-[submodule "src/Components/Shashwath_Demo_Child_1"]
-	path = src/Components/Shashwath_Demo_Child_1
-	url = https://github.com/shashwathuchil/Shashwath_Demo_Child_1.git
-[submodule "src/Components/Child2"]
-	path = src/Components/Child2
+[submodule "src/Components/child2"]
+	path = src/Components/child2
 	url = https://github.com/shashwathuchil/Shashwath_Demo_Child_1.git
