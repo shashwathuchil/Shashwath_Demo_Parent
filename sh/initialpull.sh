@@ -1,4 +1,4 @@
-cd ../app/containers/ao_ucjfdgt90_ft/
+cd ../src/CardContainer2
 
 git submodule init 
 
