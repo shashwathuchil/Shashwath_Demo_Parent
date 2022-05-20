@@ -4,3 +4,6 @@
 [submodule "src/Card"]
 	path = src/Card
 	url = https://github.com/shashwathuchil/Shashwath_Demo_Child_1.git
+[submodule "src/Components/Child2"]
+	path = src/Components/Child2
+	url = https://github.com/shashwathuchil/Shashwath_Demo_Child_1.git
