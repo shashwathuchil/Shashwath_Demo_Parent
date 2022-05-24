@@ -1,6 +1,6 @@
 cd ..
 
-for VARIABLE in src/Card src/Components/Child2
+for VARIABLE in src/Card src/Components/Dev2
 do
     cd $VARIABLE
 
