@@ -3,9 +3,13 @@ https://github.com/shashwathuchil/Shashwath_Demo_Child_1.git
 
 ## Initiating the project
 `cd sh/`
+
 `sh initialpull.sh`
+
 `cd ..`
+
 `npm install`
+
 `npm start`
 
 # Getting Started with Create React App
