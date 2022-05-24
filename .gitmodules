@@ -4,6 +4,3 @@
 [submodule "src/Components/Dev2"]
 	path = src/Components/Dev2
 	url = https://github.com/shashwathuchil/Shashwath_Demo_Child_1.git
-[submodule "src/Components/dev3"]
-	path = src/Components/dev3
-	url = https://github.com/shashwathuchil/Shashwath_Demo_Child_1.git
