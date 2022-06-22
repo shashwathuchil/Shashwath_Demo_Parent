@@ -7,3 +7,6 @@
 [submodule "src/Components/dev3"]
 	path = src/Components/dev3
 	url = https://github.com/shashwathuchil/Shashwath_Demo_Child_1.git
+[submodule "src/Components/dev4"]
+	path = src/Components/dev4
+	url = https://github.com/shashwathuchil/Shashwath_Demo_Child_1.git
